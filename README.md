@@ -1,1 +1,2 @@
-# Marketing-AI-Tools
+# Профессиональный SEO-Анализатор & Extractor (Standalone Version)
+# Выполняет парсинг, чистку DOM-дерева, N-gram аналитику и экспорт отчетов.
